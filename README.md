@@ -1,8 +1,6 @@
 # TypeScript
 
-# Установка [npm create-react-app](#npm-create-react-app)
-
----
+--
 
 1. [Основы TypeScript](#Основы-TypeScript)
 
